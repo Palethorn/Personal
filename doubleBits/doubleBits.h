@@ -1,0 +1,1 @@
+int doubleBits(int a);
