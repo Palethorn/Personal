@@ -11,7 +11,7 @@ class Stack{
 			return push(element);
 		}
 		int operator >> (int *element){
-			return pop(element)
+			return pop(element);
 		}
 		~Stack();
 };
