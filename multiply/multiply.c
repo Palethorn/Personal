@@ -1,4 +1,3 @@
-#include "conditionalSwap.h"
 int multiply(int x, int y){
     int result = 0;
 	if(y < x)
