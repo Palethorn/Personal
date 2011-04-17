@@ -1,0 +1,4 @@
+TODO:
+1. Fix multiplyRecursive function, specificaly doTheJob function inside
+multiplyRecursive.c
+2. Add full support for negative numbers
